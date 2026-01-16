@@ -82,7 +82,11 @@ The LabVIEW front panel includes:
 ---
 
 ## 📷 Screenshots
-*(Add screenshots of Front Panel and Block Diagram here)*
+
+| **Front Panel GUI** | **Block Diagram (Logic)** |
+|:---:|:---:|
+| <img src="https://github.com/user-attachments/assets/078187a5-f595-4f3e-86fc-6dc859f5a2f4" width="100%"> | <img src="https://github.com/user-attachments/assets/99135bc6-d49c-492e-914b-5ccc7e4dd051" width="100%"> |
+| *User interface for real-time RGB control* | *LabVIEW code handling VISA & PWM logic* |
 
 ---
 
